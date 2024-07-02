@@ -1,6 +1,8 @@
 # personal-website
 Build your personal website (FRONTEND TASK)
+
 Stage 1: Build your personal website (FRONTEND TASK)
+
 Study Material
 https://www.freecodecamp.org/news/html-css-11-hour-course/
 HTML Tutorial: https://www.w3schools.com/html/
@@ -8,10 +10,12 @@ CSS Tutorial: https://www.w3schools.com/css/
 Responsive Web Design Guide: https://firefox-source-docs.mozilla.org/devtools-user/responsive_design_mode
 HTMLImageElement: https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/naturalHeight
 GitHub Pages: https://docs.github.com/articles/creating-project-pages-manually
+
 Task
 You will create and host a simple single-page website outlining your goals for the next 2 years in the tech field.
 The website should be visually appealing, mobile-friendly, and utilize HTML, CSS and JavaScript only.
 Each required element should have a specified data-testid attribute for easy identification and testing.
+
 Requirements:
 Languages: Only HTML, CSS and JavaScript allowed for this stage.
 Responsiveness: The website must be responsive and function well on all devices (desktop, tablet, mobile).
@@ -31,6 +35,7 @@ Dimensions: The image must have natural dimensions (width and height specified i
 Add a link to hng.tech/learn.Attribute: data-testid="hngLink"
 Add a link to keyword.dogAttribute: data-testid="keywordLink"
 Add a link to scrapeanyweb.siteAttribute: data-testid="scrapeanywebLink"
+
 Acceptance Criteria:
 Content: The website should clearly outline your tech goals for the next 2 years.
 Visuals: The website should be visually appealing and well-organized.
@@ -41,11 +46,11 @@ Each required element should have a unique data-testid attribute assigned.
 Accuracy:Your Slack name should correspond to the actual data.
 Your slack profile picture dimension must be in its original size (Make sure the image have natural dimensions).
 Data-attributes adherence: Every specified detail on the page should correctly have the data-testid attribute as indicated above, ensuring easy identification during any potential testing.
+
 Submission Mode:
 Submit your task through the designated Submission form  . Ensure you've:
 Hosted the page on a platform of your choice (e.g., Vercel, GitHub Pages, Netlify).
 Double-checked all requirements and acceptance criteria.
 Provided the hosted page's URL in the submission form.
 Thoroughly reviewed your work to ensure accuracy, functionality, and adherence to the specified guidelines before you submit it.
-Submission Deadline:
-The deadline for submissions is Wednesday 3rd, July, at <11:59 PM GMT>. Late submissions will not be entertained!! 
+
